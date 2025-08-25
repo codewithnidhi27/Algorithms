@@ -22,4 +22,7 @@ public class BubbleSort {
         return array;
     }
 }
+//Best case TC - O(n)
+//Average case TC - O(n^2)
+//Worst case TC - O(n^2)
 
